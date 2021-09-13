@@ -1,0 +1,30 @@
+_repo: The-Hoosiers-National-Studies-in-American-Letters_66276
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: https://en.wikipedia.org/wiki/Meredith_Nicholson
+description: ''
+gutenberg_issued: '2021-09-12'
+identifiers:
+  gutenberg: '66276'
+language: en
+pgterms:marc904: https://archive.org/details/hoosiers01nich/mode/2up
+pgterms:marc905: 20200917142242nicholson
+pgterms:marc906: '1900'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :The Macmillan Company,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Hoosiers: National Studies in American Letters'
+url: http://www.gutenberg.org/ebooks/66276
